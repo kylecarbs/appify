@@ -1,3 +1,3 @@
 #!/bin/bash
 
-zip extension.zip background.js manifest.json
+zip extension.zip background.js manifest.json *.png
